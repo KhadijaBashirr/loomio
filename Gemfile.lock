@@ -304,7 +304,8 @@ GEM
     hiredis (0.6.3)
     htmlentities (4.3.4)
     http_accept_language (2.1.1)
-    httparty (0.21.0)
+    httparty (0.22.0)
+      csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
     httpclient (2.8.3)
@@ -639,7 +640,7 @@ DEPENDENCIES
   haml-rails (~> 2.1.0)
   hiredis
   http_accept_language
-  httparty (~> 0.21.0)
+  httparty (~> 0.22.0)
   i18n-timezones
   icalendar
   image_processing (~> 1.12)
