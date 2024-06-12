@@ -61,7 +61,7 @@
     "jstimezonedetect": "~1.0.7",
     "lodash-es": "latest",
     "lokijs": "1.5.12",
-    "marked": "^4.3.0",
+    "marked": "^13.0.0",
     "md5": "2.3.0",
     "plausible-tracker": "^0.3.8",
     "pretty-bytes": "^6.1.1",
